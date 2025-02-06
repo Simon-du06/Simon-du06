@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Simon and I'm a 1st year student from Epitech Nice</h2>
+<h2 align="left">Hi 👋! My name is Simon and I'm a 1st year student at Epitech Nice</h2>
 
 ###
 
